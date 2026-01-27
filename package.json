@@ -1,0 +1,19 @@
+{
+  "name": "terminal-chat",
+  "version": "1.0.0",
+  "description": "Secure terminal chat CLI with background server",
+  "main": "lib/server.js",
+  "bin": {
+    "terminal-chat": "./bin/terminal-chat.js"
+  },
+  "scripts": {
+    "postinstall": "node ./bin/postinstall.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["chat", "cli", "tls", "terminal"],
+  "author": "Your Name",
+  "license": "MIT"
+}
