@@ -1,14 +1,4 @@
 # Install locally
 sudo npm i -g 
-
-# Start server on port 1600
-terminal-chat server --port 1600
-
-# Start server on port 1700
-terminal-chat server --port 1700
-
-# Stop server on port 1600
-terminal-chat server -s --port 1600
-
-# Connect client to any server
-terminal-chat client
+# Start using 
+terminal-chat
