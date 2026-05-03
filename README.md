@@ -329,4 +329,4 @@ terminal-chat/
 
 ## License
 
-MIT © Your Name
+MIT © Tommy
