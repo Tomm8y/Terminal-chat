@@ -129,7 +129,7 @@ openssl version  # should print a version string
 ### From a local clone
 
 ```bash
-git clone https://github.com/your-username/terminal-chat.git
+git clone https://github.com/Tomm8y/Terminal-chat.git
 cd terminal-chat
 npm install        # automatically generates TLS certificate via postinstall.js
 ```
