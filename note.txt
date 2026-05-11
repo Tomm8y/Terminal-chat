@@ -1,4 +1,0 @@
-# Install locally
-sudo npm i -g 
-# Start using 
-terminal-chat
